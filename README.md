@@ -1,35 +1,32 @@
-# Bladeless fan con control de velocidad segun temperatura y control bluetooth
+# Bladeless Fan con Control de Velocidad Según Temperatura y Control Bluetooth
+
 <img src="/1000018799.jpg" alt="Bladeless Fan" width="600"/>
 
-Proyecto final de la materia Laboratorio I.
-Integrantes
+## Proyecto Final de la Materia Laboratorio I
 
-    Teo Gigena
-    Fernando Armas
-    Bautista Rodriguez
-    Juan Cruz Saires
+### Integrantes
+- Teo Gigena
+- Fernando Armas
+- Bautista Rodriguez
+- Juan Cruz Saires
 
-# Introduccion
+## Introducción
+En este proyecto se realizará un ventilador de escritorio con un diseño en el que el fan no se ve, este está dentro de una estructura 3D que permite el flujo de aire a través de su diseño interno. Su velocidad variable es posible gracias a los sensores que utiliza. Utiliza un sensor de temperatura y humedad para subir o bajar su velocidad, y un módulo Bluetooth que nos permite conectarnos mediante una app y elegir diferentes configuraciones predefinidas.
 
-En este proyecto se realizará un ventilador de escritorio con un diseño en el que el fan no se ve, este esta dentro de una estructura 3d que permite el flujo de aire a traves de su diseño interno. Su velocidad variable es posible a los sensores que utiliza. Utiliza un sensor de temperatura y humedad para subir o bajar su velocidad, y un modulo bluetooth que nos permite conectarnos mediante una app y elegir diferentes configuraciones predefinidas. 
+## Componentes del Bladeless Fan
+- Arduino UNO
+- Sensor de temperatura y humedad DHT11
+- Módulo Bluetooth HC-01
+- Fuente 12V 2A
+- Estructura 3D
+- 8 unidades de tornillos M3x8
+- 4 unidades de tornillos M3x30
+- Sus respectivas tuercas
+- Cooler fan 120mm 
 
-# Componentes del bladeless fan
-        
-        Arduino UNO.
-        Sensor de temperatura y humedad DHT11.
-        Modulo Bluetooth HC-01.
-        Fuente 12volts 2amperes.
-        Estructura 3d.
-        8 unidades de tornillos M3x8.
-        4 unidades de tornillos M3x30.
-        Sus respectivas tuercas.
-        cooler fan 120mm 
-    
-# Contenidos.
-### Informe Técnico.
-### Código de Arduino.
-### Diseños 3D.
-[Diseños 3D](./Disenos3D/)
-    
-### Codigo de la APP (archivo ".aia").
-### Tutorial de armado.
+## Contenidos
+- ### [Informe Técnico](./InformeTecnico)
+- ### [Código de Arduino](./CodigoArduino)
+- ### [Diseños 3D](./Disenos3D)
+- ### [Código de la APP (archivo ".aia")](./CodigoAPP)
+- ### [Tutorial de Armado](./TutorialArmado)

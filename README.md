@@ -1,5 +1,5 @@
 # Bladeless fan con control de velocidad segun temperatura y control bluetooth
-![Bladeless Fan](/1000018799.jpg)
+<img src="/1000018799.jpg" alt="Bladeless Fan" width="300"/>
 
 Proyecto final de la materia Laboratorio I.
 Integrantes

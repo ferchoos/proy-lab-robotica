@@ -1,4 +1,4 @@
-#Bladeless fan con control de velocidad segun temperatura y control bluetooth
+# Bladeless fan con control de velocidad segun temperatura y control bluetooth
 
 Proyecto final de la materia Laboratorio I.
 Integrantes
@@ -8,11 +8,11 @@ Integrantes
     Bautista Rodriguez
     Juan Cruz Saires
 
-#Introduccion
+# Introduccion
 
 En este proyecto se realizará un ventilador de escritorio con un diseño en el que el fan no se ve, este esta dentro de una estructura 3d que permite el flujo de aire a traves de su diseño interno. Su velocidad variable es posible a los sensores que utiliza. Utiliza un sensor de temperatura y humedad para subir o bajar su velocidad, y un modulo bluetooth que nos permite conectarnos mediante una app y elegir diferentes configuraciones predefinidas. 
 
-#Componentes del bladeless fan
+# Componentes del bladeless fan
         
         Arduino UNO.
         Sensor de temperatura y humedad DHT11.
@@ -24,9 +24,9 @@ En este proyecto se realizará un ventilador de escritorio con un diseño en el 
         Sus respectivas tuercas.
         cooler fan 120mm 
     
-##Contenidos
-##Informe Técnico.
-##Código de Arduino.
-##Diseños 3D.
-##Codigo de la APP (archivo ".aia").
-##Tutorial de armado.
+## Contenidos.
+## Informe Técnico.
+## Código de Arduino.
+## Diseños 3D.
+## Codigo de la APP (archivo ".aia").
+## Tutorial de armado.

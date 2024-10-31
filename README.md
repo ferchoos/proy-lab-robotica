@@ -25,8 +25,8 @@ En este proyecto se realizará un ventilador de escritorio con un diseño en el 
         cooler fan 120mm 
     
 # Contenidos.
-## Informe Técnico.
-## Código de Arduino.
-## Diseños 3D.
-## Codigo de la APP (archivo ".aia").
-## Tutorial de armado.
+### Informe Técnico.
+### Código de Arduino.
+### Diseños 3D.
+### Codigo de la APP (archivo ".aia").
+### Tutorial de armado.

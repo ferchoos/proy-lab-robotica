@@ -13,7 +13,7 @@ Introduccion
 En este proyecto se realizará un ventilador de escritorio con un diseño en el que el fan no se ve, este esta dentro de una estructura 3d que permite el flujo de aire a traves de su diseño interno. Su velocidad variable es posible a los sensores que utiliza. Utiliza un sensor de temperatura y humedad para subir o bajar su velocidad, y un modulo bluetooth que nos permite conectarnos mediante una app y elegir diferentes configuraciones predefinidas. 
 Componentes
 
-    Componentes de los autos (cada uno):
+    Componentes del bladeless fan:
         Arduino UNO.
         Sensor de temperatura y humedad DHT11.
         Modulo Bluetooth HC-01.

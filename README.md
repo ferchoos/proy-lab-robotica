@@ -24,7 +24,7 @@ En este proyecto se realizará un ventilador de escritorio con un diseño en el 
         Sus respectivas tuercas.
         cooler fan 120mm 
     
-## Contenidos.
+# Contenidos.
 ## Informe Técnico.
 ## Código de Arduino.
 ## Diseños 3D.

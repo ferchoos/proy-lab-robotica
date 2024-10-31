@@ -1,4 +1,5 @@
 # Bladeless fan con control de velocidad segun temperatura y control bluetooth
+![Bladeless Fan]()
 
 Proyecto final de la materia Laboratorio I.
 Integrantes

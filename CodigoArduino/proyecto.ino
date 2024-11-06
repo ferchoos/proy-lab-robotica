@@ -6,15 +6,15 @@
 #define FAN_PIN 9      
 
 DHT dht(DHTPIN, DHTTYPE);
-SoftwareSerial bluetooth(10, 11); 
+SoftwareSerial bluetooth(6, 5); 
 
-int manualFanSpeed = -1; // -1 for automatic mode
+int manualFanSpeed = -1; 
 bool fanEnabled = true;  
 
 void setup() {
     pinMode(FAN_PIN, OUTPUT);
-    Serial.begin(9600);
-    bluetooth.begin(9600);
+    Serial.begin(9600);       
+    bluetooth.begin(9600);    
     dht.begin(); 
 }
 
@@ -27,18 +27,18 @@ void loop() {
         if (command == 'A') {             // AUTOMATICO
             manualFanSpeed = -1;         
             fanEnabled = true;
-            Serial.println("Automatic control mode");
+            bluetooth.println("Auto");
         } else if (command == 'M') {      // MAXIMO
             manualFanSpeed = 255;         
             fanEnabled = true;
-            Serial.println("Max speed mode");
+            bluetooth.println("Max");
         } else if (command == 'L') {      // BAJO
             manualFanSpeed = 64;          
             fanEnabled = true;
-            Serial.println("Low speed mode");
+            bluetooth.println("Low ");
         } else if (command == 'O') {      // APAGAR
             fanEnabled = false;           
-            Serial.println("Fan turned off");
+            bluetooth.println("off");
         }
     }
 

@@ -17,6 +17,7 @@ En este proyecto se realizará un ventilador de escritorio con un diseño en el 
 - Arduino UNO
 - Sensor de temperatura y humedad DHT11
 - Módulo Bluetooth HC-01
+- Arduino Motor Shield l293
 - Fuente 12V 2A
 - Estructura 3D
 - 8 unidades de tornillos M3x8

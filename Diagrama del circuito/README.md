@@ -1,2 +1,3 @@
 (Algunas piezas no se encuentran en thinkercad)
-![{D025240D-BF71-429C-A68D-E5F04B7B7A4F}](https://github.com/user-attachments/assets/047c2a59-b78e-4c23-9acb-933f6afb3347)
+![{2768573B-5D6C-458B-9EA8-6139B60ED899}](https://github.com/user-attachments/assets/fc0bf31b-c07f-4268-88a0-d9c8ed3ca3ad)
+

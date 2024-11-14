@@ -28,6 +28,7 @@ En este proyecto se realizará un ventilador de escritorio con un diseño en el 
 ## Contenidos
 - ### [Informe Técnico](./InformeTecnico)
 - ### [Código de Arduino](./CodigoArduino)
+- ### [Diagrama del circuito](./Diagrama)
 - ### [Diseños 3D](./Disenos3D)
 - ### [Código de la APP (archivo ".aia")](./CodigoAPP)
 - ### [Presentación del proyecto](./Presentacion)
